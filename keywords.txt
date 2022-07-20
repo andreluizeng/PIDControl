@@ -1,0 +1,8 @@
+PIDControl	KEYWORD1
+begin KEYWORD2
+computePID KEYWORD2
+setOutputLimits KEYWORD2
+setGains KEYWORD2
+getOutput KEYWORD2
+getError KEYWORD2
+splitPID KEYWORD2
